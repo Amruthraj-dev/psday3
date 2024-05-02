@@ -18,7 +18,7 @@ for (n of res) {
   prod = 1;
   for (j = 1; j <= n; j++) {
     prod = prod * j;
-    s+=prod+" "
   }
-  console.log(s);
+    s+=prod+" "
 }
+console.log(s);
